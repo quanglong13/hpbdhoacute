@@ -1,6 +1,6 @@
 var a=prompt("UserName");
  var b=prompt("Password");
-  	if(a== "Duy" && b=="140402")
+  	if(a== "Long" && b=="130120")
   	{
   	    window.location.href="start.html";
   	}
